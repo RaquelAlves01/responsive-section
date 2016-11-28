@@ -26,3 +26,9 @@ body {
   background-color: #e5c30a;
 }
 
+.img-flex {
+  display: inline-block;
+  float: left;
+  width: 50%;
+}
+
