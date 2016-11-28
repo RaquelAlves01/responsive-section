@@ -39,3 +39,9 @@ body {
   clear: both;
 }
 
+.section-body {
+  margin: 1.4em;
+  margin-top: 0;
+  padding-bottom: 1rem;
+}
+
