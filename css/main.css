@@ -32,3 +32,10 @@ body {
   width: 50%;
 }
 
+.section-letter,
+.section-icon {
+  float: left;
+  width: 100%;
+  clear: both;
+}
+
