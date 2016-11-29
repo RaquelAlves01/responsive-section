@@ -26,8 +26,15 @@ section {
   overflow: hidden;
 }
 
-.img-flex {
-  display: inline-block;
+.wrapper {
+  margin: 0 auto;
+  max-width: 45em;
+}
+
+section .wrapper {
+  padding: 1rem 1rem 0;
+}
+
   float: left;
   width: 50%;
 }
