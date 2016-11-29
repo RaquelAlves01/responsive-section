@@ -35,13 +35,18 @@ section .wrapper {
   padding: 1rem 1rem 0;
 }
 
+.section-letter {
   float: left;
   width: 50%;
+  margin-left: 0;
 }
 
-.section-letter,
 .section-icon {
   float: left;
+  width: 50%;
+  margin-right: 0;
+}
+
   width: 100%;
   clear: both;
 }
