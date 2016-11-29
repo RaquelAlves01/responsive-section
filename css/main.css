@@ -17,13 +17,13 @@ html {
   box-sizing: inherit;
 }
 
-
 body {
   margin: 0;
 }
 
-.wrapper {
+section {
   background-color: #e5c30a;
+  overflow: hidden;
 }
 
 .img-flex {
