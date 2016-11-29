@@ -47,12 +47,17 @@ section .wrapper {
   margin-right: 0;
 }
 
+.img-flex {
+  display: block;
   width: 100%;
-  clear: both;
+  max-width: 45em;
 }
 
 .section-body {
+  display: inline-block;
   margin: 1.4em;
   margin-top: 0;
-  padding-bottom: 1rem;
+  margin-left: 0;
+}
+
 }
